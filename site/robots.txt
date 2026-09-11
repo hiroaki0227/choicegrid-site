@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hiroaki0227.github.io/choicegrid-site/sitemap.xml
+Sitemap: https://choicegrid.roomelstudio.com/sitemap.xml
